@@ -126,10 +126,6 @@ a:hover {
     z-index: 10;
 }
 
-.card-removed {
-    opacity: 0;
-}
-
 #popup {
     font-family: 'Orbitron', serif;
     font-size: 28px;
